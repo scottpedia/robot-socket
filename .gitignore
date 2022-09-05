@@ -2,3 +2,5 @@
 /.idea/
 out
 robot-socket-test/.idea/
+/robot-socket-test/out/
+/robot-socket-test/robot-socket-test.iml
