@@ -1,1 +1,4 @@
 /robot-socket-test.iml
+/.idea/
+out
+robot-socket-test/.idea/
